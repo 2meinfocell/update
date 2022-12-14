@@ -6,7 +6,7 @@
   "EmailFeedback": "k@gmail.com",
   "UrlContato": "",
   "UrlTermos": "https://kiritosshxd.github.io/Conecta4g_site/termos.html",
-  "CheckUser": "true",
+  "CheckUser": "false",
   "FormatCheck": "yyyymmdd",
   "Udp": [
     {
@@ -19,7 +19,7 @@
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "2meinfocell.ml",
-      "CheckUser": "http://45.140.192.136:5454/checkUser",
+      "CheckUser": "http://:5454/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
       "USER": "",
