@@ -15,10 +15,10 @@
   ],
   "Servers": [
     {
-      "Name": "⚡GB TELECOM⚡",
+      "Name": "⚡2ME⚡",
       "TYPE": "premium",
       "FLAG": "br.png",
-      "ServerIP": "br1.servidorpvs.tk",
+      "ServerIP": "2meinfocell.ml",
       "CheckUser": "http://45.140.192.136:5454/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
